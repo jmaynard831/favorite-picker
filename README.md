@@ -1,4 +1,4 @@
-#It's a digimon picker now.
+# It's a digimon picker now.
 Added 200 odd digimon.
 
 # Favorite picker
